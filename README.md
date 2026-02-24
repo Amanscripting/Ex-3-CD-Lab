@@ -58,7 +58,8 @@ return 0;
 }
 ```
 # OUTPUT
-<img width="747" height="224" alt="image" src="https://github.com/user-attachments/assets/a39774d7-f72c-43f0-947c-ae1b8b7b16db" />
+<img width="853" height="836" alt="image" src="https://github.com/user-attachments/assets/0756a4ef-e068-43d1-9d43-6b9a31d68977" />
+
 
 # RESULT
 A YACC program to recognize a valid arithmetic expression that uses operator +,-,* and / is executed successfully and the output is verified.
